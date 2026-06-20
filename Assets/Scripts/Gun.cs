@@ -4,8 +4,8 @@ public class Gun : MonoBehaviour
 {
     public Camera playerCamera;
 
-    public float damage = 20f;
-    public float range = 100f;
+    public float damage = 25f;
+    public float range = 500f;
 
     void Update()
     {
